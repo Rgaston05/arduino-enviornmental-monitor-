@@ -1,4 +1,4 @@
-# Arduino Environmental Monitoring Station
+# Raspberry Pi Pico Environmental Monitoring Station
 An Raspberry Pi-based environmental monitoring station designed to measure and display real-time environmental conditions including temperature, relative humidity, atmospheric pressure, and light intensity 
 
 ## Project Overview 

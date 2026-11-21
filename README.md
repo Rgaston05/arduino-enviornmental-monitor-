@@ -1,8 +1,8 @@
 # Arduino Environmental Monitoring Station
-An Arduino Uno-based environmental monitoring station designed to measure and display real-time environmental conditions including temperature, relative humidity, atmospheric pressure, and light intensity 
+An Raspberry Pi-based environmental monitoring station designed to measure and display real-time environmental conditions including temperature, relative humidity, atmospheric pressure, and light intensity 
 
 ## Project Overview 
-This project uses an Arduino Uno as the central controller for an environmental monitoring system. Sensors collect environmental data once per second, which is processed by the microcontroller and displayed continuously in real time
+This project uses a Raspberry Pi Pico as the central controller for an environmental monitoring system. Sensors collect environmental data, which is processed by the microcontroller and displayed continuously in real time
 
 The system is intended to measure: 
 - Ambient temperature
@@ -32,12 +32,3 @@ The system is intended to measure:
  
    ## Hardware
 
-  The system is built around an Arduino Uno and will use dedicated sensors for each environmental measurement.
-  |Component      |                   Purpose                            |
-  |Arduino Uno    |             Main microcontroller and data processing |
-  |Temperature/Humidity Sensor| Measure ambient temperature and relative                                                                         humidity
-  |Pressure sensor|        Measures atmospheric pressure                 |
-  |Light sensor   |       Measure ambient light intensity                |
-  |Display        |Display measurements and calculated environmental data|
-  |Breadboard     |          Circuit Prototyping                         |
-  |Jumper Wires   |         Electrical connection between components     |  
